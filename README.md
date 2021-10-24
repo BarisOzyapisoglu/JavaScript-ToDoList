@@ -1,1 +1,1 @@
-# JavaScript-ToDoList
+# Beginner JavaScript Project -ToDoList
